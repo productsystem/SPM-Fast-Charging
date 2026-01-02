@@ -1,0 +1,212 @@
+
+Single objective optimization:
+1 Variables
+
+Options:
+CreationFcn:       @gacreationuniform
+CrossoverFcn:      @crossoverscattered
+SelectionFcn:      @selectionstochunif
+MutationFcn:       @mutationadaptfeasible
+I = 1.50 A | Time = 19303.6 s | Tmax = 301.17 K | J = 19303.6
+I = 8.29 A | Time = 3495.4 s | Tmax = 319.20 K | J = 387864.0
+I = 2.45 A | Time = 11807.3 s | Tmax = 303.25 K | J = 11807.3
+I = 8.35 A | Time = 3472.1 s | Tmax = 319.40 K | J = 412965.8
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 2.23 A | Time = 12975.8 s | Tmax = 302.79 K | J = 12975.8
+I = 3.59 A | Time = 8069.0 s | Tmax = 305.40 K | J = 8069.0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 8.68 A | Time = 3342.8 s | Tmax = 320.55 K | J = 574094.7
+I = 8.74 A | Time = 3322.3 s | Tmax = 320.75 K | J = 603507.0
+I = 2.68 A | Time = 10796.2 s | Tmax = 303.70 K | J = 10796.2
+I = 8.78 A | Time = 3306.6 s | Tmax = 320.90 K | J = 626714.0
+
+                                  Best           Mean      Stall
+Generation      Func-count        f(x)           f(x)    Generations
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 2.23 A | Time = 12975.8 s | Tmax = 302.79 K | J = 12975.8
+I = 8.74 A | Time = 3322.3 s | Tmax = 320.75 K | J = 603507.0
+I = 8.78 A | Time = 3306.6 s | Tmax = 320.90 K | J = 626714.0
+I = 2.45 A | Time = 11807.3 s | Tmax = 303.25 K | J = 11807.3
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 3.59 A | Time = 8069.0 s | Tmax = 305.40 K | J = 8069.0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 8.29 A | Time = 3495.4 s | Tmax = 319.20 K | J = 387864.0
+I = 8.35 A | Time = 3472.1 s | Tmax = 319.40 K | J = 412965.8
+I = 4.59 A | Time = 6310.8 s | Tmax = 307.23 K | J = 6310.8
+I = 7.24 A | Time = 3998.7 s | Tmax = 315.47 K | J = 65139.0
+    1               24            4639       1.792e+05        0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 4.59 A | Time = 6310.8 s | Tmax = 307.23 K | J = 6310.8
+I = 8.78 A | Time = 3306.6 s | Tmax = 320.90 K | J = 626714.0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 2.45 A | Time = 11807.3 s | Tmax = 303.25 K | J = 11807.3
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 2.45 A | Time = 11807.3 s | Tmax = 303.25 K | J = 11807.3
+I = 4.59 A | Time = 6310.8 s | Tmax = 307.23 K | J = 6310.8
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.24 A | Time = 5523.7 s | Tmax = 308.59 K | J = 5523.7
+I = 5.24 A | Time = 5523.7 s | Tmax = 308.59 K | J = 5523.7
+    2               35            4639       5.819e+04        1
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 4.59 A | Time = 6310.8 s | Tmax = 307.23 K | J = 6310.8
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 4.59 A | Time = 6310.8 s | Tmax = 307.23 K | J = 6310.8
+I = 5.24 A | Time = 5523.7 s | Tmax = 308.59 K | J = 5523.7
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 4.74 A | Time = 6105.9 s | Tmax = 307.51 K | J = 6105.9
+I = 5.74 A | Time = 5042.9 s | Tmax = 310.20 K | J = 5042.9
+    3               46            4639            5192        2
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 4.74 A | Time = 6105.9 s | Tmax = 307.51 K | J = 6105.9
+I = 5.74 A | Time = 5042.9 s | Tmax = 310.20 K | J = 5042.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 4.99 A | Time = 5800.3 s | Tmax = 308.00 K | J = 5800.3
+I = 5.99 A | Time = 4832.5 s | Tmax = 311.06 K | J = 4832.5
+    4               57            4639            4952        3
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.99 A | Time = 4832.5 s | Tmax = 311.06 K | J = 4832.5
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.12 A | Time = 4733.8 s | Tmax = 311.49 K | J = 4733.8
+I = 4.62 A | Time = 6271.2 s | Tmax = 307.28 K | J = 6271.2
+    5               68            4639            4843        4
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.12 A | Time = 4733.8 s | Tmax = 311.49 K | J = 4733.8
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.18 A | Time = 4686.0 s | Tmax = 311.71 K | J = 4686.0
+I = 6.31 A | Time = 4593.1 s | Tmax = 312.15 K | J = 4593.1
+    6               79            4593            4691        0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.12 A | Time = 4733.8 s | Tmax = 311.49 K | J = 4733.8
+I = 6.43 A | Time = 4503.8 s | Tmax = 312.59 K | J = 4503.8
+    7               90            4504            4676        0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.60 A | Time = 5169.9 s | Tmax = 309.72 K | J = 5169.9
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.43 A | Time = 4503.8 s | Tmax = 312.59 K | J = 4503.8
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.87 A | Time = 4935.5 s | Tmax = 310.63 K | J = 4935.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+    8              101            4460            4671        0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 5.87 A | Time = 4935.5 s | Tmax = 310.63 K | J = 4935.5
+I = 5.87 A | Time = 4935.5 s | Tmax = 310.63 K | J = 4935.5
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.93 A | Time = 4178.9 s | Tmax = 314.36 K | J = 22587.9
+I = 6.10 A | Time = 4746.3 s | Tmax = 311.44 K | J = 4746.3
+    9              112            4460            6148        1
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 5.87 A | Time = 4935.5 s | Tmax = 310.63 K | J = 4935.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.10 A | Time = 4746.3 s | Tmax = 311.44 K | J = 4746.3
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.74 A | Time = 4295.1 s | Tmax = 313.69 K | J = 9067.7
+   10              123            4460            4982        2
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.24 A | Time = 4639.0 s | Tmax = 311.93 K | J = 4639.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.12 A | Time = 4733.8 s | Tmax = 311.49 K | J = 4733.8
+I = 6.62 A | Time = 4376.2 s | Tmax = 313.25 K | J = 4992.7
+   11              134            4460            4587        3
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.62 A | Time = 4376.2 s | Tmax = 313.25 K | J = 4992.7
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.43 A | Time = 4503.8 s | Tmax = 312.59 K | J = 4503.8
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+   12              145            4425            4506        0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.37 A | Time = 4548.0 s | Tmax = 312.37 K | J = 4548.0
+I = 6.62 A | Time = 4376.2 s | Tmax = 313.25 K | J = 4992.7
+   13              156            4425            4503        1
+I = 6.37 A | Time = 4548.0 s | Tmax = 312.37 K | J = 4548.0
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+   14              167            4425            4456        2
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.37 A | Time = 4548.0 s | Tmax = 312.37 K | J = 4548.0
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.56 A | Time = 4417.9 s | Tmax = 313.03 K | J = 4425.4
+I = 6.49 A | Time = 4460.5 s | Tmax = 312.81 K | J = 4460.5
+I = 6.59 A | Time = 4397.0 s | Tmax = 313.14 K | J = 4586.5
+I = 6.52 A | Time = 4439.1 s | Tmax = 312.92 K | J = 4439.1
+   15              178            4425            4462        3
+ga stopped because it exceeded options.MaxGenerations.
+
+=============================
+Optimal charging current = 6.555 A
+Objective value (time+penalty) = 4425.4
+=============================
+>> 

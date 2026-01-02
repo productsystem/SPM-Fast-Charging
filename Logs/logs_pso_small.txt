@@ -1,0 +1,30 @@
+I1=5.90 I2=8.48 SOCb=0.45 | Time=4780 | Tmax=301.4 | J=4780
+I1=7.34 I2=5.05 SOCb=0.58 | Time=4782 | Tmax=301.4 | J=4782
+I1=6.96 I2=3.89 SOCb=0.62 | Time=4782 | Tmax=301.4 | J=4782
+I1=6.38 I2=6.20 SOCb=0.56 | Time=4780 | Tmax=301.4 | J=4780
+I1=6.48 I2=4.24 SOCb=0.56 | Time=4780 | Tmax=301.4 | J=4780
+
+                                 Best            Mean     Stall
+Iteration     f-count            f(x)            f(x)    Iterations
+    0               5            4780            4781        0
+I1=9.00 I2=7.50 SOCb=0.40 | Time=4788 | Tmax=301.4 | J=4788
+I1=7.70 I2=7.63 SOCb=0.80 | Time=4784 | Tmax=301.4 | J=4784
+I1=6.41 I2=9.00 SOCb=0.40 | Time=4780 | Tmax=301.4 | J=4780
+I1=1.50 I2=9.00 SOCb=0.80 | Time=5419 | Tmax=300.2 | J=5419
+I1=2.37 I2=9.00 SOCb=0.64 | Time=4797 | Tmax=301.3 | J=4797
+    1              10            4780            4914        0
+I1=2.41 I2=8.63 SOCb=0.49 | Time=4786 | Tmax=301.3 | J=4786
+I1=6.13 I2=9.00 SOCb=0.40 | Time=4780 | Tmax=301.4 | J=4780
+I1=5.80 I2=9.00 SOCb=0.40 | Time=4780 | Tmax=301.4 | J=4780
+I1=9.00 I2=4.65 SOCb=0.49 | Time=4788 | Tmax=301.4 | J=4788
+I1=2.58 I2=0.50 SOCb=0.64 | Time=4786 | Tmax=301.3 | J=4786
+    2              15            4780            4784        1
+Optimization ended: number of iterations exceeded OPTIONS.MaxIterations.
+
+=============================
+Optimal I1        = 5.898 A
+Optimal I2        = 8.480 A
+Optimal SOC_break = 0.453
+Objective value   = 4780.0
+=============================
+>> 

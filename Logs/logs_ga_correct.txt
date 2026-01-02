@@ -1,0 +1,212 @@
+
+Single objective optimization:
+1 Variables
+
+Options:
+CreationFcn:       @gacreationuniform
+CrossoverFcn:      @crossoverscattered
+SelectionFcn:      @selectionstochunif
+MutationFcn:       @mutationadaptfeasible
+I = 1.50 A | Time = 4898.0 s | Tmax = 299.83 K | Vmax = 3.367 V | J = 4941.4
+I = 3.17 A | Time = 2321.0 s | Tmax = 301.92 K | Vmax = 3.389 V | J = 2504.0
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 7.32 A | Time = 1004.0 s | Tmax = 309.56 K | Vmax = 3.434 V | J = 1785.8
+I = 4.73 A | Time = 1556.0 s | Tmax = 304.80 K | Vmax = 3.407 V | J = 1931.5
+I = 6.16 A | Time = 1194.0 s | Tmax = 307.45 K | Vmax = 3.423 V | J = 1783.1
+I = 3.59 A | Time = 2045.0 s | Tmax = 302.70 K | Vmax = 3.394 V | J = 2275.6
+I = 5.09 A | Time = 1446.0 s | Tmax = 305.47 K | Vmax = 3.411 V | J = 1872.4
+I = 3.86 A | Time = 1904.0 s | Tmax = 303.19 K | Vmax = 3.397 V | J = 2166.6
+I = 7.70 A | Time = 955.0 s | Tmax = 310.24 K | Vmax = 3.438 V | J = 1802.4
+I = 7.07 A | Time = 1040.0 s | Tmax = 309.11 K | Vmax = 3.432 V | J = 1779.3
+I = 2.58 A | Time = 2845.0 s | Tmax = 300.89 K | Vmax = 3.381 V | J = 2969.9
+
+                                  Best           Mean      Stall
+Generation      Func-count        f(x)           f(x)    Generations
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 7.70 A | Time = 955.0 s | Tmax = 310.24 K | Vmax = 3.438 V | J = 1802.4
+I = 4.73 A | Time = 1556.0 s | Tmax = 304.80 K | Vmax = 3.407 V | J = 1931.5
+I = 7.70 A | Time = 955.0 s | Tmax = 310.24 K | Vmax = 3.438 V | J = 1802.4
+I = 3.86 A | Time = 1904.0 s | Tmax = 303.19 K | Vmax = 3.397 V | J = 2166.6
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 3.59 A | Time = 2045.0 s | Tmax = 302.70 K | Vmax = 3.394 V | J = 2275.6
+I = 5.09 A | Time = 1446.0 s | Tmax = 305.47 K | Vmax = 3.411 V | J = 1872.4
+I = 7.32 A | Time = 1004.0 s | Tmax = 309.56 K | Vmax = 3.434 V | J = 1785.8
+I = 2.59 A | Time = 2834.0 s | Tmax = 300.90 K | Vmax = 3.381 V | J = 2960.0
+I = 5.32 A | Time = 1381.0 s | Tmax = 305.91 K | Vmax = 3.414 V | J = 1842.2
+    1               24            1779            1981        0
+I = 2.59 A | Time = 2834.0 s | Tmax = 300.90 K | Vmax = 3.381 V | J = 2960.0
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 5.09 A | Time = 1446.0 s | Tmax = 305.47 K | Vmax = 3.411 V | J = 1872.4
+I = 7.70 A | Time = 955.0 s | Tmax = 310.24 K | Vmax = 3.438 V | J = 1802.4
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 5.32 A | Time = 1381.0 s | Tmax = 305.91 K | Vmax = 3.414 V | J = 1842.2
+I = 3.59 A | Time = 2045.0 s | Tmax = 302.70 K | Vmax = 3.394 V | J = 2275.6
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.9
+I = 3.73 A | Time = 1973.0 s | Tmax = 302.94 K | Vmax = 3.396 V | J = 2219.3
+    2               35            1779            1970        1
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 5.09 A | Time = 1446.0 s | Tmax = 305.47 K | Vmax = 3.411 V | J = 1872.4
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 3.09 A | Time = 2376.0 s | Tmax = 301.79 K | Vmax = 3.388 V | J = 2551.2
+    3               46            1776            1851        0
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 5.09 A | Time = 1446.0 s | Tmax = 305.47 K | Vmax = 3.411 V | J = 1872.4
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 3.09 A | Time = 2376.0 s | Tmax = 301.79 K | Vmax = 3.388 V | J = 2551.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 5.32 A | Time = 1381.0 s | Tmax = 305.91 K | Vmax = 3.414 V | J = 1842.2
+I = 7.32 A | Time = 1004.0 s | Tmax = 309.56 K | Vmax = 3.434 V | J = 1785.7
+    4               57            1776            1856        1
+I = 5.09 A | Time = 1446.0 s | Tmax = 305.47 K | Vmax = 3.411 V | J = 1872.4
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 5.32 A | Time = 1381.0 s | Tmax = 305.91 K | Vmax = 3.414 V | J = 1842.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 7.32 A | Time = 1004.0 s | Tmax = 309.56 K | Vmax = 3.434 V | J = 1785.8
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.9
+    5               68            1776            1791        2
+I = 5.32 A | Time = 1381.0 s | Tmax = 305.91 K | Vmax = 3.414 V | J = 1842.2
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 7.32 A | Time = 1004.0 s | Tmax = 309.56 K | Vmax = 3.434 V | J = 1785.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.9
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 7.07 A | Time = 1040.0 s | Tmax = 309.11 K | Vmax = 3.432 V | J = 1779.6
+I = 6.07 A | Time = 1211.0 s | Tmax = 307.30 K | Vmax = 3.422 V | J = 1787.0
+    6               79            1776            1784        3
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.9
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.9
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.07 A | Time = 1211.0 s | Tmax = 307.30 K | Vmax = 3.422 V | J = 1787.0
+I = 6.70 A | Time = 1098.0 s | Tmax = 308.44 K | Vmax = 3.428 V | J = 1775.0
+I = 6.95 A | Time = 1058.0 s | Tmax = 308.89 K | Vmax = 3.431 V | J = 1776.3
+    7               90            1775            1777        0
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.95 A | Time = 1058.0 s | Tmax = 308.89 K | Vmax = 3.431 V | J = 1776.3
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.07 A | Time = 1211.0 s | Tmax = 307.30 K | Vmax = 3.422 V | J = 1787.0
+I = 7.07 A | Time = 1040.0 s | Tmax = 309.11 K | Vmax = 3.432 V | J = 1779.6
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+    8              101            1774            1777        0
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.32 A | Time = 1163.0 s | Tmax = 307.75 K | Vmax = 3.424 V | J = 1778.8
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 7.07 A | Time = 1040.0 s | Tmax = 309.11 K | Vmax = 3.432 V | J = 1779.6
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.95 A | Time = 1058.0 s | Tmax = 308.89 K | Vmax = 3.431 V | J = 1776.3
+I = 6.70 A | Time = 1098.0 s | Tmax = 308.44 K | Vmax = 3.428 V | J = 1775.0
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.07 A | Time = 1210.0 s | Tmax = 307.30 K | Vmax = 3.422 V | J = 1785.9
+I = 6.20 A | Time = 1186.0 s | Tmax = 307.53 K | Vmax = 3.423 V | J = 1781.8
+    9              112            1774            1777        1
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 7.07 A | Time = 1040.0 s | Tmax = 309.11 K | Vmax = 3.432 V | J = 1779.6
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.07 A | Time = 1210.0 s | Tmax = 307.30 K | Vmax = 3.422 V | J = 1785.9
+I = 5.82 A | Time = 1262.0 s | Tmax = 306.84 K | Vmax = 3.419 V | J = 1798.9
+I = 6.45 A | Time = 1140.0 s | Tmax = 307.98 K | Vmax = 3.426 V | J = 1775.9
+   10              123            1774            1778        2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.45 A | Time = 1140.0 s | Tmax = 307.98 K | Vmax = 3.426 V | J = 1775.9
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.45 A | Time = 1140.0 s | Tmax = 307.98 K | Vmax = 3.426 V | J = 1775.9
+I = 6.45 A | Time = 1140.0 s | Tmax = 307.98 K | Vmax = 3.426 V | J = 1775.9
+   11              134            1774            1775        3
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.45 A | Time = 1140.0 s | Tmax = 307.98 K | Vmax = 3.426 V | J = 1775.9
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.89 A | Time = 1068.0 s | Tmax = 308.77 K | Vmax = 3.430 V | J = 1776.0
+I = 6.51 A | Time = 1129.0 s | Tmax = 308.10 K | Vmax = 3.426 V | J = 1775.1
+   12              145            1774            1775        4
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.48 A | Time = 1135.0 s | Tmax = 308.04 K | Vmax = 3.426 V | J = 1776.2
+I = 6.54 A | Time = 1124.0 s | Tmax = 308.15 K | Vmax = 3.427 V | J = 1775.3
+   13              156            1774            1775        5
+I = 6.54 A | Time = 1124.0 s | Tmax = 308.15 K | Vmax = 3.427 V | J = 1775.3
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.59 A | Time = 1116.0 s | Tmax = 308.24 K | Vmax = 3.427 V | J = 1774.9
+I = 6.59 A | Time = 1116.0 s | Tmax = 308.24 K | Vmax = 3.427 V | J = 1774.9
+   14              167            1774            1775        6
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.59 A | Time = 1116.0 s | Tmax = 308.24 K | Vmax = 3.427 V | J = 1774.9
+I = 6.82 A | Time = 1078.0 s | Tmax = 308.66 K | Vmax = 3.430 V | J = 1775.7
+I = 6.54 A | Time = 1124.0 s | Tmax = 308.15 K | Vmax = 3.427 V | J = 1775.3
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.57 A | Time = 1118.0 s | Tmax = 308.21 K | Vmax = 3.427 V | J = 1774.2
+I = 6.59 A | Time = 1116.0 s | Tmax = 308.24 K | Vmax = 3.427 V | J = 1774.9
+I = 6.58 A | Time = 1117.0 s | Tmax = 308.22 K | Vmax = 3.427 V | J = 1774.6
+I = 6.58 A | Time = 1117.0 s | Tmax = 308.22 K | Vmax = 3.427 V | J = 1774.6
+   15              178            1774            1775        7
+ga stopped because it exceeded options.MaxGenerations.
+
+=============================
+Optimal charging current = 6.575 A
+Objective value (time+penalty) = 1774.2
+=============================
+>> 
